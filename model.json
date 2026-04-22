@@ -4,7 +4,7 @@
         "sport": "",
         "date": "",
         "competition": "",
-        "final_score": "" // if mentioned
+        "final_score": "" 
     },
     "key_events": [
         {
@@ -45,8 +45,8 @@
     },
     "commentary_sentiment": {
         "overall_tone": "positive|negative|neutral|mixed",
-        "excitement_level": 1-10,
-        "controversy_level": 1-10
+        "excitement_level": "1-10",
+        "controversy_level": "1-10"
     },
     "raw_summary": "2-3 sentence match summary"
 }
