@@ -1,0 +1,8 @@
+openai-whisper>=20231117
+pydub>=0.25.1
+typer>=0.9.0
+python-dotenv>=1.0.0
+requests>=2.31.0
+tqdm>=4.66.0
+jsonschema>=4.21.0
+ffmpeg-python>=0.2.0

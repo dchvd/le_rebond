@@ -1,0 +1,69 @@
+{
+  "match_rating": {
+    "overall_quality": {
+      "score": 8.5,
+      "justification": "High quality match with standout performances and tactical brilliance."
+    },
+    "entertainment_value": {
+      "score": 9.0,
+      "justification": "Incredible attacking play and memorable moments like Mbappé's hat-trick make for a highly entertaining game."
+    },
+    "competitiveness": {
+      "score": 8.5,
+      "justification": "Both teams showed resilience and skill, with PSG ultimately prevailing in a closely contested match."
+    }
+  },
+  "team_ratings": {
+    "PSG": {
+      "overall": 9.0,
+      "attack": 10.0,
+      "defense": 7.0,
+      "tactics": 8.5,
+      "justification": "Excellent overall performance with standout attacking play and some defensive lapses."
+    },
+    "Barcelona": {
+      "overall": 8.0,
+      "attack": 6.0,
+      "defense": 9.0,
+      "tactics": 7.0,
+      "justification": "Competitive team showing strong defensive efforts but struggled in the final stages of the game."
+    }
+  },
+  "player_ratings": [
+    {
+      "name": "Mbappé",
+      "team": "PSG",
+      "score": 10.0,
+      "standout_moment": "Marque un hat-trick en seulement 90 minutes, y compris sa technique individuelle épatante à la 52e minute."
+    },
+    {
+      "name": "Dembélé",
+      "team": "PSG",
+      "score": 8.5,
+      "standout_moment": "Résiste au tacle de Araújo et catapulte le ballon au fond des filets à la 41e minute."
+    },
+    {
+      "name": "Pedri",
+      "team": "Barcelona",
+      "score": 7.0,
+      "standout_moment": "Déclenche une magnifique frappe enroulée du gauche qui vient mourir sur la barre de Donnarumma au 23e minute."
+    },
+    {
+      "name": "Lewandowski",
+      "team": "Barcelona",
+      "score": 6.5,
+      "standout_moment": "Dévie astucieusement pour Gavi dont la frappe est repoussée par Donnarumma à la 61e minute."
+    },
+    {
+      "name": "Gavi",
+      "team": "Barcelona",
+      "score": 7.0,
+      "standout_moment": "Donne une belle frappe au but qui est repoussée par le gardien à la 61e minute. Aráujo reprend de la tête en fin de match."
+    }
+  ],
+  "final_match_score": {
+    "value": 9.0,
+    "label": "Tres bon",
+    "summary": "PSG dominant with Mbappé's hat-trick securing a highly competitive and entertaining match against Barcelona in the Ligue des Champions."
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "meta": {
+    "pipeline": "Le Rebond",
+    "version": "1.0.0",
+    "generated_at": "2026-04-22T13:04:40.427177Z",
+    "input_file": "/Users/ichamlecorvaisier/Desktop/SN04/IA04/TP commentaires sportifs/le-rebond/test.txt"
+  },
+  "match": {
+    "name": "PSG vs Barcelona",
+    "date": "2025-04-15",
+    "sport": "football",
+    "competition": "Ligue des Champions",
+    "teams": [
+      "PSG",
+      "Barcelona"
+    ],
+    "final_score": "3-1 PSG"
+  },
+  "key_events": [
+    {
+      "minute": "8",
+      "event_type": "goal",
+      "player": "Dembélé",
+      "team": "PSG",
+      "description": "Marque un but"
+    },
+    {
+      "minute": "23",
+      "event_type": "missed_chance",
+      "player": null,
+      "team": "Barcelona",
+      "description": "Pedri déclenche une magnifique frappe enroulée du gauche qui vient mourir sur la barre de Donnarumma"
+    },
+    {
+      "minute": "23",
+      "event_type": "yellow_card",
+      "player": "Vitinha",
+      "team": "PSG",
+      "description": "Reçoit un carton jaune pour un tacle tardif sur Pedri"
+    },
+    {
+      "minute": "52",
+      "event_type": "goal",
+      "player": "Mbappé",
+      "team": "PSG",
+      "description": "Marque un but avec une technique individuelle épatante"
+    },
+    {
+      "minute": "61",
+      "event_type": "missed_chance",
+      "player": null,
+      "team": "Barcelona",
+      "description": "Lewandowski dévie astucieusement pour Gavi dont la frappe est repoussée par Donnarumma. Araújo reprend de la tête"
+    },
+    {
+      "minute": "71",
+      "event_type": "penalty_made",
+      "player": "Mbappé",
+      "team": "PSG",
+      "description": "S'apprête à marquer un penalty, obtenu après une contact avec Araújo en surface"
+    }
+  ],
+  "positive_elements": [
+    {
+      "category": "collective",
+      "description": "Le PSG reste dans son organisation et cherche à exploiter les espaces en contre.",
+      "player_or_team": "PSG",
+      "intensity": 8
+    },
+    {
+      "category": "tactical",
+      "description": "L'arbitre, après consultation de la VAR, valide la décision. Mbappé se place face au goal, frappe au centre et marque son troisième but de la soirée.",
+      "player_or_team": "PSG",
+      "intensity": 8
+    },
+    {
+      "category": "attack",
+      "description": "L'attaquant français résiste au tacle de Araújo et catapulte le ballon au fond des filets.",
+      "player_or_team": "PSG",
+      "intensity": 7
+    }
+  ],
+  "negative_elements": [
+    {
+      "category": "defensive",
+      "description": "Le PSG souffre légèrement dans les vingt dernières minutes de la première période. Barcelona trouve de l'espace entre les lignes.",
+      "player_or_team": "PSG",
+      "intensity": 5
+    },
+    {
+      "category": "refereeing",
+      "description": "L'arbitre, après consultation de la VAR, valide la décision. Mbappé se place face au goal, frappe au centre et marque son troisième but de la soirée.",
+      "player_or_team": "PSG",
+      "intensity": 6
+    }
+  ],
+  "performance_by_team": {
+    "PSG": {
+      "strengths": [],
+      "weaknesses": [
+        "Le PSG souffre légèrement dans les vingt dernières minutes de la première période. Barcelona trouve de l'espace entre les lignes."
+      ],
+      "notable_players": [
+        "Mbappé",
+        "Dembélé"
+      ]
+    },
+    "Barcelona": {
+      "strengths": [],
+      "weaknesses": [
+        "Barcelona ne lâche rien. À la 61e minute, Lewandowski, dos au but, dévie astucieusement pour Gavi dont la frappe est repoussée par Donnarumma."
+      ],
+      "notable_players": [
+        "Pedri",
+        "Lewandowski",
+        "Gavi"
+      ]
+    }
+  },
+  "commentary_sentiment": {
+    "overall_tone": "positive",
+    "excitement_level": 8,
+    "controversy_level": 3
+  },
+  "raw_summary": "Le PSG a dominé le match contre le Barcelone lors de l'un des plus grands duels en Ligue des Champions. Mbappé, auteur d'un hat-trick, s'est imposé devant un Barcelone qui a montré quelques belles choses, notamment grâce à Pedri et Lewandowski.",
+  "ratings": {
+    "match_rating": {
+      "overall_quality": {
+        "score": 8.5,
+        "justification": "High quality match with standout performances and tactical brilliance."
+      },
+      "entertainment_value": {
+        "score": 9.0,
+        "justification": "Incredible attacking play and memorable moments like Mbappé's hat-trick make for a highly entertaining game."
+      },
+      "competitiveness": {
+        "score": 8.5,
+        "justification": "Both teams showed resilience and skill, with PSG ultimately prevailing in a closely contested match."
+      }
+    },
+    "team_ratings": {
+      "PSG": {
+        "overall": 9.0,
+        "attack": 10.0,
+        "defense": 7.0,
+        "tactics": 8.5,
+        "justification": "Excellent overall performance with standout attacking play and some defensive lapses."
+      },
+      "Barcelona": {
+        "overall": 8.0,
+        "attack": 6.0,
+        "defense": 9.0,
+        "tactics": 7.0,
+        "justification": "Competitive team showing strong defensive efforts but struggled in the final stages of the game."
+      }
+    },
+    "player_ratings": [
+      {
+        "name": "Mbappé",
+        "team": "PSG",
+        "score": 10.0,
+        "standout_moment": "Marque un hat-trick en seulement 90 minutes, y compris sa technique individuelle épatante à la 52e minute."
+      },
+      {
+        "name": "Dembélé",
+        "team": "PSG",
+        "score": 8.5,
+        "standout_moment": "Résiste au tacle de Araújo et catapulte le ballon au fond des filets à la 41e minute."
+      },
+      {
+        "name": "Pedri",
+        "team": "Barcelona",
+        "score": 7.0,
+        "standout_moment": "Déclenche une magnifique frappe enroulée du gauche qui vient mourir sur la barre de Donnarumma au 23e minute."
+      },
+      {
+        "name": "Lewandowski",
+        "team": "Barcelona",
+        "score": 6.5,
+        "standout_moment": "Dévie astucieusement pour Gavi dont la frappe est repoussée par Donnarumma à la 61e minute."
+      },
+      {
+        "name": "Gavi",
+        "team": "Barcelona",
+        "score": 7.0,
+        "standout_moment": "Donne une belle frappe au but qui est repoussée par le gardien à la 61e minute. Aráujo reprend de la tête en fin de match."
+      }
+    ],
+    "final_match_score": {
+      "value": 9.0,
+      "label": "Tres bon",
+      "summary": "PSG dominant with Mbappé's hat-trick securing a highly competitive and entertaining match against Barcelona in the Ligue des Champions."
+    }
+  }
+}

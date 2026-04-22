@@ -1,0 +1,13 @@
+Evaluer et générer des notes à partir de commentaires sportifs audio/texte
+
+prendre les retours audio d'un match 2h par exemple -> voir si on peut récupérer lzs élements positifs et négatifs et attribuer une note cohérente
+comparer avec journeaux sur même match
+entrée, commentaire texte ou audiosi audio ytanscription automatique
+analyse par LLM
+résumé + extytaction de fait
+structuration des sorties : JSON / tableau
+Cacul ou génération de la note finale
+Affichage des résultats
+
+TP pas noté
+code commenté et facilmeent utilisable par une autre personne

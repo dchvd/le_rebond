@@ -1,0 +1,119 @@
+{
+  "match_info": {
+    "teams": [
+      "PSG",
+      "Barcelona"
+    ],
+    "sport": "football",
+    "date": "15 avril 2025",
+    "competition": "Ligue des Champions",
+    "final_score": "3-1 PSG"
+  },
+  "key_events": [
+    {
+      "minute": "8",
+      "event_type": "goal",
+      "player": "Dembélé",
+      "team": "PSG",
+      "description": "Marque un but"
+    },
+    {
+      "minute": "23",
+      "event_type": "missed_chance",
+      "player": null,
+      "team": "Barcelona",
+      "description": "Pedri déclenche une magnifique frappe enroulée du gauche qui vient mourir sur la barre de Donnarumma"
+    },
+    {
+      "minute": "23",
+      "event_type": "yellow_card",
+      "player": "Vitinha",
+      "team": "PSG",
+      "description": "Reçoit un carton jaune pour un tacle tardif sur Pedri"
+    },
+    {
+      "minute": "52",
+      "event_type": "goal",
+      "player": "Mbappé",
+      "team": "PSG",
+      "description": "Marque un but avec une technique individuelle épatante"
+    },
+    {
+      "minute": "61",
+      "event_type": "missed_chance",
+      "player": null,
+      "team": "Barcelona",
+      "description": "Lewandowski dévie astucieusement pour Gavi dont la frappe est repoussée par Donnarumma. Araújo reprend de la tête"
+    },
+    {
+      "minute": "71",
+      "event_type": "penalty_made",
+      "player": "Mbappé",
+      "team": "PSG",
+      "description": "S'apprête à marquer un penalty, obtenu après une contact avec Araújo en surface"
+    }
+  ],
+  "positive_elements": [
+    {
+      "category": "collective",
+      "description": "Le PSG reste dans son organisation et cherche à exploiter les espaces en contre.",
+      "player_or_team": "PSG",
+      "intensity": 8
+    },
+    {
+      "category": "tactical",
+      "description": "L'arbitre, après consultation de la VAR, valide la décision. Mbappé se place face au goal, frappe au centre et marque son troisième but de la soirée.",
+      "player_or_team": "PSG",
+      "intensity": 8
+    },
+    {
+      "category": "attack",
+      "description": "L'attaquant français résiste au tacle de Araújo et catapulte le ballon au fond des filets.",
+      "player_or_team": "PSG",
+      "intensity": 7
+    }
+  ],
+  "negative_elements": [
+    {
+      "category": "defensive",
+      "description": "Le PSG souffre légèrement dans les vingt dernières minutes de la première période. Barcelona trouve de l'espace entre les lignes.",
+      "player_or_team": "PSG",
+      "intensity": 5
+    },
+    {
+      "category": "refereeing",
+      "description": "L'arbitre, après consultation de la VAR, valide la décision. Mbappé se place face au goal, frappe au centre et marque son troisième but de la soirée.",
+      "player_or_team": "PSG",
+      "intensity": 6
+    }
+  ],
+  "performance_by_team": {
+    "PSG": {
+      "strengths": [],
+      "weaknesses": [
+        "Le PSG souffre légèrement dans les vingt dernières minutes de la première période. Barcelona trouve de l'espace entre les lignes."
+      ],
+      "notable_players": [
+        "Mbappé",
+        "Dembélé"
+      ]
+    },
+    "Barcelona": {
+      "strengths": [],
+      "weaknesses": [
+        "Barcelona ne lâche rien. À la 61e minute, Lewandowski, dos au but, dévie astucieusement pour Gavi dont la frappe est repoussée par Donnarumma."
+      ],
+      "notable_players": [
+        "Pedri",
+        "Lewandowski",
+        "Gavi"
+      ]
+    }
+  },
+  "commentary_sentiment": {
+    "overall_tone": "positive",
+    "excitement_level": 8,
+    "controversy_level": 3
+  },
+  "raw_summary": "Le PSG a dominé le match contre le Barcelone lors de l'un des plus grands duels en Ligue des Champions. Mbappé, auteur d'un hat-trick, s'est imposé devant un Barcelone qui a montré quelques belles choses, notamment grâce à Pedri et Lewandowski."
+}
