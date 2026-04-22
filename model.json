@@ -1,0 +1,52 @@
+{
+    "match_info": {
+        "teams": [],
+        "sport": "",
+        "date": "",
+        "competition": "",
+        "final_score": "" // if mentioned
+    },
+    "key_events": [
+        {
+            "minute": "", 
+            "event_type": "goal|card|injury|substitution|chance", 
+            "player": "", 
+            "team": "", 
+            "description": ""
+        }
+    ],
+    "positive_elements": [
+        {
+            "category": "attack|defense|individual|collective|tactical", 
+            "description": "", 
+            "player_or_team": "", 
+            "intensity": "1-10"
+        }
+    ],
+    "negative_elements": [
+        {
+            "category": "attack|defense|individual|collective|tactical|refereeing", 
+        "description": "", 
+        "player_or_team": "", 
+        "intensity": "1-10"
+    }
+    ],
+    "performance_by_team": {
+        "team_a": {
+            "strengths": [], 
+            "weaknesses": [], 
+            "notable_players": []
+        },
+        "team_b": {
+            "strengths": [], 
+            "weaknesses": [], 
+            "notable_players": []
+        }
+    },
+    "commentary_sentiment": {
+        "overall_tone": "positive|negative|neutral|mixed",
+        "excitement_level": 1-10,
+        "controversy_level": 1-10
+    },
+    "raw_summary": "2-3 sentence match summary"
+}
