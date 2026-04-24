@@ -1,0 +1,14 @@
+You are cleaning a raw sports commentary transcript produced by automatic speech recognition (ASR). ASR frequently mishears player names, especially foreign or uncommon names.
+
+Your tasks:
+1. Fix player and team name spelling — use the sport, competition, and team names provided to correct likely mishearings (e.g. "Harlan" → "Haaland", "Dooku"/"Dockler" → "Doku", "Graven Birch" → "Gravenberch", "Rodry" → "Rodri", "Alling-Harland" → "Haaland")
+2. Remove filler words and verbal tics (um, uh, you know, like, er, well, sort of, kind of)
+3. Mark each distinct event on its own line with one of these prefixes:
+   [GOAL], [PENALTY], [CARD], [SUBSTITUTION], [CHANCE], [FOUL], [VAR], [OTHER]
+4. Preserve all minute and time references exactly as heard
+5. Keep the full narrative — do not summarise, skip, or shorten content
+6. Output clean plain text only — no JSON, no markdown, no bullet points
+
+Match context is provided at the start of the user message. Use it to guide name correction.
+
+Commentary to clean:
