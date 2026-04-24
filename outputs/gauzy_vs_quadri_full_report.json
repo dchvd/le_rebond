@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "pipeline": "Le Rebond",
+    "version": "1.0.0",
+    "generated_at": "2026-04-24T13:10:43.464519Z",
+    "input_file": "/Users/thierrydepoumeyrol/Desktop/le_rebond/le_rebond/outputs/simon_gauzy_vs_quadri_aruna_transcript.txt"
+  },
+  "match": {
+    "name": "Gauzy VS Quadri",
+    "date": "",
+    "sport": "ping pong",
+    "competition": "",
+    "teams": [],
+    "final_score": ""
+  },
+  "key_events": [],
+  "positive_elements": [],
+  "negative_elements": [],
+  "performance_by_team": {},
+  "commentary_sentiment": {},
+  "raw_summary": "",
+  "ratings": {
+    "match_rating": {
+      "overall_quality": {
+        "score": 9.0,
+        "justification": "Highly entertaining with intense rallies and important moments"
+      },
+      "entertainment_value": {
+        "score": 9.0,
+        "justification": "The match was a spectacle with key points and player performances"
+      },
+      "competitiveness": {
+        "score": 9.0,
+        "justification": "Both teams were evenly matched in skill and execution"
+      }
+    },
+    "team_ratings": {
+      "Sima Gauzy": {
+        "overall": 9.0,
+        "attack": 9.0,
+        "defense": 9.0,
+        "tactics": 9.0,
+        "justification": "Played a flawless match, showcasing both offensive and defensive prowess"
+      },
+      "Quadriaruna": {
+        "overall": 8.0,
+        "attack": 7.0,
+        "defense": 8.0,
+        "tactics": 8.0,
+        "justification": "Strong team with balanced attack and defense, though less effective in execution than Sima Gauzy"
+      }
+    },
+    "player_ratings": [
+      {
+        "name": "Simo Gauzy",
+        "team": "Sima Gauzy",
+        "score": 9.0,
+        "standout_moment": "Saved Match Point with strategic play and athletic recovery"
+      },
+      {
+        "name": "Quadriaruna",
+        "team": "Quadriaruna",
+        "score": 8.0,
+        "standout_moment": "Won the match with strong serve and good game management"
+      }
+    ],
+    "final_match_score": {
+      "value": 9.5,
+      "label": "Tres bon",
+      "summary": "A highly competitive match between two top-tier players, showcasing exceptional athleticism and strategic brilliance."
+    }
+  }
+}

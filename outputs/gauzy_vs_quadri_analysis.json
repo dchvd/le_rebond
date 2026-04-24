@@ -1,0 +1,47 @@
+{
+  "matchDetails": {
+    "winner": "Sima Gauzy",
+    "score": "10-7"
+  },
+  "playerStats": [
+    {
+      "name": "Sima Gauzy",
+      "stats": {
+        "pointsWon": 21,
+        "firstServicePoints": 5,
+        "secondServicePoints": 3,
+        "aces": 0,
+        "doubleFaults": 2
+      }
+    },
+    {
+      "name": "Quadriaruna",
+      "stats": {
+        "pointsWon": 7,
+        "firstServicePoints": 4,
+        "secondServicePoints": 1,
+        "aces": 2,
+        "doubleFaults": 0
+      }
+    }
+  ],
+  "rallyDetails": [
+    {
+      "playerA": "Sima Gauzy",
+      "playerB": "Quadriaruna",
+      "result": "Player A Won"
+    },
+    {
+      "playerA": "Quadriaruna",
+      "playerB": "Sima Gauzy",
+      "result": "Player B Won"
+    }
+  ],
+  "importantRally": {
+    "playerA": "Simo Gauzy",
+    "playerB": "Quadriaruna",
+    "score": "7-6, 8-5",
+    "outcome": "Player A Saved Match Point"
+  },
+  "finalCommentary": "The match was a spectacle of sportsmanship and skill. It showcased two players at the peak of their game, each displaying exceptional athleticism and strategic brilliance."
+}
